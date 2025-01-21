@@ -158,3 +158,4 @@ help [[ expression ]]
 ./countdown.sh
 ./countdown.sh 1
 ./countdown.sh five
+help
