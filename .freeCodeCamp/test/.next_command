@@ -178,3 +178,6 @@ touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+echo Lang
+echo LANG
+echo $LANG
