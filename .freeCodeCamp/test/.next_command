@@ -2,3 +2,4 @@ ls --color=auto -l
 chmod +x questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
