@@ -129,3 +129,7 @@ help if
 ./countdown.sh 5
 __vsc_prompt_cmd_original
 help
+help [[ expression ]]
+help
+help if
+help test
