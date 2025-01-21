@@ -111,3 +111,4 @@ __vsc_prompt_cmd_original
 git push -U origin main
 git push -u origin main
 touch countdown.sh
+chmod +x countdown.sh
