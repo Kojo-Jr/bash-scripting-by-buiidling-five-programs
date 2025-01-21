@@ -10,3 +10,4 @@ __vsc_prompt_cmd_original
 chmod +x questionnaire.sh
 ./questionnare.sh
 ./questionnaire.sh
+./questionnaire.sh
