@@ -110,3 +110,4 @@ git branch -M main
 __vsc_prompt_cmd_original
 git push -U origin main
 git push -u origin main
+touch countdown.sh
