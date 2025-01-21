@@ -134,3 +134,4 @@ help
 help if
 help test
 ./countdown.sh 5
+[[ 4 -le 5 ]]
