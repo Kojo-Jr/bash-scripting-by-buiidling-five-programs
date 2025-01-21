@@ -119,3 +119,6 @@ chmod +x countdown.sh
 help
 man echo
 man if
+__vsc_prompt_cmd_original
+help ig
+help if
